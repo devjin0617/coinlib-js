@@ -1,0 +1,9 @@
+{
+  "name": "coinlib-ks",
+  "version": "0.0.1",
+  "description": "npm library",
+  "author": "devjin0617 <devjin0617@gmail.com>",
+  "dependencies": {
+    "got": "^7.1.0"
+  }
+}
